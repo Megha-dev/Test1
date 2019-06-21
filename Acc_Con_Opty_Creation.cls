@@ -9,7 +9,7 @@ Account a = new Account();
     
     a.Name='n'; 
 
-insert a;/////////
+insert a;//JetTest
 
 Contact c = new Contact(); c.LastName='Satti Reddy';
 

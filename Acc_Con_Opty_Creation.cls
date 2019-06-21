@@ -7,7 +7,7 @@ Public Account CreateAccount(String n)
 
 Account a = new Account();
     
-    a.Name='n'; 
+    a.Name='n'; //test
 
 insert a;
 Contact c = new Contact(); c.LastName='Satti Reddy';

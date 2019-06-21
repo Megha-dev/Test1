@@ -9,8 +9,7 @@ Account a = new Account();
     
     a.Name='n'; 
 
-insert a;//JetTest
-//Hey Test
+insert a;
 Contact c = new Contact(); c.LastName='Satti Reddy';
 
 c.AccountId=a.id;

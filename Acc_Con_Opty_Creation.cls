@@ -1,6 +1,9 @@
 Public class Acc_Con_Opty_Creation
 {
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 Public Account CreateAccount(String n)
 
 {
